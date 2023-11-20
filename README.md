@@ -1,5 +1,5 @@
 # HealthGuard - Your Personal Health Monitoring Companion
-Welcome to HealthGuard, the cutting-edge health monitoring app designed to empower you with real-time insights into two vital aspects of your well-being: heart rate and respiratory rate. Developed using the robust combination of Kotlin and Java programming languages, HealthGuard leverages the power of Sqllite for efficient data storage, ensuring a seamless and secure user experience.
+Welcome to HealthGuard, the cutting-edge health monitoring app designed to empower you with real-time insights into two vital aspects of your well-being: heart rate and respiratory rate. Developed using the robust combination of Kotlin programming languages, HealthGuard leverages the power of Sqllite for efficient data storage, ensuring a seamless and secure user experience.
 
 In today's fast-paced world, staying on top of your health has never been more crucial. HealthGuard is not just an app; it's your personal health companion that brings the latest in technology to your fingertips, allowing you to monitor key physiological indicators anytime, anywhere. Whether you're an active individual striving for peak performance or someone looking to enhance their overall well-being, HealthGuard is tailored to meet your health monitoring needs.
 
